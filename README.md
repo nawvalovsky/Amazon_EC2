@@ -39,3 +39,7 @@ yum install -y httpd
 systemctl start httpd
 systemctl enable httpd
 echo "<h1>Deployed by nawvalovsky via Amazon EC2</h1>" > /var/www/html/index.html
+```
+About the Author: nawvalovsky
+Cloud Architecture Specialist (AWS, GCP, Azure) | IT Infrastructure Enthusiast dengan fokus pada automasi sistem.
+
